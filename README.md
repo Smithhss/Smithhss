@@ -16,7 +16,7 @@
 ### 技术栈
 
 <p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square" alt="Go" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -36,16 +36,6 @@
 | [shs-shop-parent](https://github.com/Smithhss/shs-shop-parent) | Spring Cloud 微服务电商系统 |
 | [smithhs.github.io](https://github.com/Smithhss/smithhs.github.io) | 个人博客与知识库 |
 | [smith-theme-static](https://github.com/Smithhss/smith-theme-static) | Hexo 主题静态资源 |
-
-### GitHub
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Smithhss&show_icons=true&hide_title=true&hide_border=true&theme=github_dark&bg_color=00000000&rank_icon=github" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Smithhss&show_icons=true&hide_title=true&hide_border=true&theme=default&bg_color=00000000&rank_icon=github" />
-    <img width="460" src="https://github-readme-stats.vercel.app/api?username=Smithhss&show_icons=true&hide_title=true&hide_border=true&theme=default&bg_color=00000000&rank_icon=github" alt="GitHub stats" />
-  </picture>
-</div>
 
 <br />
 
