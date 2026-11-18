@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="Smith — Backend, AI Infrastructure, Developer Tools" width="100%" />
+  <img src="https://raw.githubusercontent.com/Smithhss/Smithhss/main/assets/banner.svg" alt="Smith — Backend, AI Infrastructure, Developer Tools" width="100%" />
 </div>
 
 <br />
